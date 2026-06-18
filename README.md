@@ -7,7 +7,7 @@ Embedded Software Engineer focused on building reliable and maintainable firmwar
 - Embedded C and modern firmware architecture.
 - Event-Driven Systems, State-machine, and Object-Oriented Design in C.
 - Data Structures and Algorithms: Queue, Stack, Ring Buffer, Linked List, Hash Table, Memory Pool, and efficient memory management.
-- UART, SPI, I2C, CAN, Modbus, MQTT, and LoRa communication systems.
+- UART, SPI, I2C, Modbus, MQTT, and LoRa communication systems.
 - Git-based development workflow with CMake, VS Code, and ESP-IDF.
 
 <!--
