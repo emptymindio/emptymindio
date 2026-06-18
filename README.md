@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Vo Duc Hoang Khanh
+
+Embedded Software Engineer focused on building reliable and maintainable firmware using Event-Driven Architecture, State-machines, and OOP in C
+
+# Technical Stack
+- Embedded C and modern firmware architecture.
+- Event-Driven Systems, Active Objects, HSM, and Object-Oriented Design in C.
+- Data Structures and Algorithms: Queue, Stack, Ring Buffer, Linked List, Hash Table, Memory Pool, and efficient memory management techniques.
+- STM32 (ARM Cortex-M) and ESP32 development.
+- UART, SPI, I2C, CAN, Modbus, MQTT, and LoRa communication systems.
+- Git-based development workflow with CMake, VS Code, and ESP-IDF.
 
 <!--
 **emptymindio/emptymindio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
