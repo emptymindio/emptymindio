@@ -2,7 +2,7 @@
 
 Embedded Software Engineer focused on building reliable and maintainable firmware using Event-Driven Architecture, State-machines, and OOP in C
 
-# Technical Stack
+### Technical Stack
 - Embedded C and modern firmware architecture.
 - Event-Driven Systems, Active Objects, HSM, and Object-Oriented Design in C.
 - Data Structures and Algorithms: Queue, Stack, Ring Buffer, Linked List, Hash Table, Memory Pool, and efficient memory management techniques.
