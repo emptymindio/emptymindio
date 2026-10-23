@@ -3,7 +3,7 @@
 Embedded Software Engineer focused on building reliable and maintainable firmware using Event-Driven Architecture, State-machines, and OOP in C
 
 ### Technical Stack
-- STM32 (ARM Cortex-M) and ESP32 development.
+- ARM Cortex-M-based MCUs (STM32, NXP) and ESP32 development.
 - Embedded C and modern firmware architecture.
 - Event-Driven Systems, State-machine, and Object-Oriented Design in C.
 - Data Structures and Algorithms: Queue, Stack, Ring Buffer, Linked List, Hash Table, Memory Pool, and efficient memory management.
